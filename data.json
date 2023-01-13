@@ -1,0 +1,20 @@
+[
+    {
+        "title" : "What is Computer?",
+        "subtitle" : "A computer is an electronic device that manipulates information, or data.",
+        "image_url" : "https://cdn.pixabay.com/photo/2016/03/04/19/36/beach-1236581_960_720.jpg",
+        "detail" : "A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations (computation) automatically. Modern digital electronic computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks. A computer system is a nominally complete computer that includes the hardware, operating system (main software), and peripheral equipment needed and used for full operation. This term may also refer to a group of computers that are linked and function together, such as a computer network or computer cluster."
+    },
+    {
+        "title" : "What is Programming?",
+        "subtitle" : "Programming“Programming is how you get computers to solve problems.”",
+        "image_url" : "https://cdn.pixabay.com/photo/2014/08/15/11/29/beach-418742_960_720.jpg",
+        "detail" : " Programming is a creative task: there is no right or wrong way to solve a problem, in the same way, that there is no right or wrong way to paint a picture.There are choices to be made, and one way may seem better than another, but that doesn’t mean the other is wrong! With the right skills and experience, a programmer can craft software to solve an unlimited number of problems – from telling you when your next train will arrive at playing your favourite music.The possibilities are constrained only by your imagination. That’s why I love programming."
+    },
+    {
+        "title" : "What is Programer?",
+        "subtitle" : "A programmer is an individual that writes/creates computer software or applications",
+        "image_url" : "https://cdn.pixabay.com/photo/2013/10/02/23/03/mountains-190055_960_720.jpg",
+        "detail" : "A computer programmer, sometimes referred to as a software developer, a software engineer, a programmer or a coder, is a person who creates computer programs — often for larger computer software.A programmer is someone who writes/creates computer software or applications by providing a specific programming language to the computer. Most programmers have extensive computing and coding experience in many varieties of programming languages and platforms, such as Structured Query Language (SQL), Perl, Extensible Markup Language (XML), PHP, HTML, C, C++ and Java.A programmer's most often-used computer language (e.g., Assembly, C, C++, C#, JavaScript, Lisp, Python, Java, etc.) may be prefixed to the aforementioned terms. Some who work with web programming languages may also prefix their titles with web."
+    }
+]
